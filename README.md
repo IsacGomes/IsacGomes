@@ -47,3 +47,6 @@
 [![linkeding](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isacgomes/)
 [![Gmail](https://img.shields.io/badge/Gmail-330066?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isacmegadriv@gmail.com)
 </div>
+
+![Snake animation](https://github.com/ImKiss4/ImKiss4/blob/output/github-contribution-grid-snake.svg)
+
