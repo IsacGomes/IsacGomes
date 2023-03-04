@@ -48,5 +48,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-330066?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isacmegadriv@gmail.com)
 </div>
 
-![Snake animation](https://github.com/ImKiss4/ImKiss4/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/ImKiss4/ImKiss4/blob/output/github-contribution-grid-snake.gif">
 
