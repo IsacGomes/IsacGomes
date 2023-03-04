@@ -48,4 +48,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-330066?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isacmegadriv@gmail.com)
 </div>
 
-<img src="file:///C:/Users/IsacM/OneDrive/%C3%81rea%20de%20Trabalho/Isac/Code/project/GitHub/github-user-contribution%20(1).svg">
+<img url="file:///C:/Users/IsacM/OneDrive/%C3%81rea%20de%20Trabalho/Isac/Code/project/GitHub/github-user-contribution%20(1).svg">
