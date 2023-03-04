@@ -47,5 +47,3 @@
 [![linkeding](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isacgomes/)
 [![Gmail](https://img.shields.io/badge/Gmail-330066?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isacmegadriv@gmail.com)
 </div>
-
-<img url="file:///C:/Users/IsacM/OneDrive/%C3%81rea%20de%20Trabalho/Isac/Code/project/GitHub/github-user-contribution%20(1).svg">
