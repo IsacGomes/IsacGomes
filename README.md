@@ -48,6 +48,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-330066?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isacmegadriv@gmail.com)
 </div>
 
-<img src="https://github.com/ImKiss4/ImKiss4/blob/output/github-contribution-grid-snake.gif">
-
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif">
+<img src="file:///C:/Users/IsacM/OneDrive/%C3%81rea%20de%20Trabalho/Isac/Code/project/GitHub/github-user-contribution%20(1).svg">
