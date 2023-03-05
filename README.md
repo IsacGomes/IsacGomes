@@ -1,6 +1,4 @@
-<div align="center">
-<img height="337em" width="1440" src="./Tomato-girl-Purple.gif">
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4d3688&height=120&section=header"/>
 
 ## Haro!!! My name is Isac, glad to meet you 💜
 ### More about me:
