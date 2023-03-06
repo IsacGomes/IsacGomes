@@ -14,7 +14,7 @@
 [//]: <> ( Contributions Graphic/Gráfico de contribuições )
 <div style:" display:solid ">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IsacGomes&bg_color=30763&color=ffffff&line=1c1230&point=640ba7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IsacGomes&bg_color=30763&color=ffffff&line=640ba7&point=957bdd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>    
     
 <div align=" center ">
