@@ -1,22 +1,32 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4d3688&height=120&section=header"/>
 
+[//]: <> ( Saudação principal/Main greeting )
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Haro!,+My+name+is+Isac+Gomes;I'm+18+years+old;I'm+from+Brazil;I+Graduated+Software+Engeneer;Be+Welcome!+:%29;💜)](https://git.io/typing-svg)
 
-### More about me:
+[//]: <> ( Mais sobre mim/More about me )
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1000&pause=500&color=FFFFFF&repeat=false&width=435&lines=More+about+me%3A)](https://git.io/typing-svg)
 <div>
 
-    - I like to eat Pizza 🍕
-    - I like to watch movies and animes/animations 🖥️
-    - I play drum 🥁
-    - I like to draw 🖋️
-    - I like photography 📷
-    - I like to program too 👨‍💻
+[//]: <> ( Eu gosto de/I like to )
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1000&pause=500&color=FFFFFF&width=435&lines=I+like+to+eat+Pizza+%F0%9F%8D%95;I+like+to+watch+movies+and+animes%2Fanimations+%F0%9F%96%A5%EF%B8%8F;I+play+drum+%F0%9F%A5%81;I+like+to+draw+%F0%9F%96%8B%EF%B8%8F;I+like+photography+%F0%9F%93%B7;I+like+to+program+too+%F0%9F%91%A8%E2%80%8D)](https://git.io/typing-svg)
 </div>
+    
+[//]: <> ( Contributions Graphic/Gráfico de contribuições )
+<div style:" display:solid ">
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IsacGomes&bg_color=30763&color=ffffff&line=1c1230&point=640ba7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>    
+    
 <div align=" center ">
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=IsacGomes&show_icons=true&theme=midnight-purple">
 <img height="80em" align="justify" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=midnight-purple&repo=github-readme-stats">
 <img align="justify" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=midnight-purple">
 </div><br>
+
+<div>
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1000&pause=500&color=FFFFFF&repeat=false&width=435&lines=Languages+%E2%80%8B%E2%80%8Band+technologies%3A)](https://git.io/typing-svg)
+</div>
 
 [//]: <> ( Technologies/Tecnologias )
 <div align="center">
@@ -29,15 +39,12 @@
 <img src="https://img.shields.io/badge/Java-957bdd?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
 <img src="https://img.shields.io/badge/Node.js-0d0437?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.Js">
+</div><br>
+
+<div>
+        
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1000&pause=500&color=FFFFFF&repeat=false&width=435&lines=Here+are+my+social+networks%3A)](https://git.io/typing-svg)
 </div>
-
-[//]: <> ( Contributions Graphic/Gráfico de contribuições )
-<div style:" display:solid ">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IsacGomes&bg_color=30763&color=ffffff&line=1c1230&point=640ba7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
-
-## Here are my social networks:
 <div style:" display: inline_block" align="center">
 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%231b047c.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://br.pinterest.com/ImKissA/)
