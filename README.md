@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4d3688&height=120&section=header"/>
 
 [//]: <> ( Saudação principal/Main greeting )
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Haro!,+My+name+is+Isac+Gomes;I'm+18+years+old;I'm+from+Brazil;I+Graduated+Software+Engeneer;Be+Welcome!+:%29;💜)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Haro!,+My+name+is+Isac+Gomes+💜;I'm+18+years+old;I'm+from+Brazil;I+Graduated+Software+Engeneer+👨‍💻;Be+Welcome!+💜;)](https://git.io/typing-svg)
 
 [//]: <> ( Mais sobre mim/More about me )
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1000&pause=500&color=FFFFFF&repeat=false&width=435&lines=More+about+me%3A)](https://git.io/typing-svg) <img src="https://github.githubassets.com/images/mona-loading-dark.gif" align="right" width="80em" height="80em">
