@@ -8,7 +8,7 @@
 <div>
 
 [//]: <> ( Eu gosto de/I like to )
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1000&pause=500&color=FFFFFF&width=435&lines=I+like+to+eat+Pizza+%F0%9F%8D%95;I+like+to+watch+movies+and+animes%2Fanimations+%F0%9F%96%A5%EF%B8%8F;I+play+drum+%F0%9F%A5%81;I+like+to+draw+%F0%9F%96%8B%EF%B8%8F;I+like+photography+%F0%9F%93%B7;I+like+to+program+too+%F0%9F%91%A8%E2%80%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1000&pause=500&color=FFFFFF&width=435&lines=I+like+to+eat+Pizza+%F0%9F%8D%95;I+like+to+watch+movies+and+animes%2Fanimations+%F0%9F%96%A5%EF%B8%8F;I+play+drum+%F0%9F%A5%81;I+like+to+draw+%F0%9F%96%8B%EF%B8%8F;I+like+photography+%F0%9F%93%B7;I+like+to+program+too+%F0%9F%91%A8%E2%80%8D)](https://git.io/typing-svg) <img src="https://github.githubassets.com/images/mona-loading-dark.gif" align="right" width="80em" height="80em">
 </div>
     
 [//]: <> ( Contributions Graphic/Gráfico de contribuições )
