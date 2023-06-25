@@ -55,4 +55,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-330066?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isacmegadriv@gmail.com)
 </div>
 
+<div style:" display center: inline_block" align="center">
+    <img src="https://raw.githubusercontent.com/Dumont19/Dumont19/c1b0a7666058a792d8c23aeb7e31abf69fbe7ea1/github-contribution-grid-snake.svg">
+</div>    
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4d3688&height=120&section=footer"/>
