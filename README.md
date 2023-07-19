@@ -43,6 +43,7 @@
 <img src="https://img.shields.io/badge/Node.js-0d0437?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.Js">
 </div>
 <div align="center">
+<img src="https://img.shields.io/badge/GIT-7F00B2?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSql">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"  alt="MySql">
 <img src="https://img.shields.io/badge/Amazon_AWS-BC6FF1?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AmazonAWS">
@@ -54,7 +55,6 @@
 </div>
 <div style:" display: inline_block" align="center">
 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%231b047c.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://br.pinterest.com/ImKissA/)
 [![Codepen](https://img.shields.io/badge/Codepen-330066?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Kiss4) 
 [![instagram](https://img.shields.io/badge/Instagram-552d80?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/im_kiss4)
 [![linkeding](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isacgomes/)
