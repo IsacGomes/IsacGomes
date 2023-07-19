@@ -41,6 +41,11 @@
 <img src="https://img.shields.io/badge/Java-957bdd?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
 <img src="https://img.shields.io/badge/Node.js-0d0437?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.Js">
+</div>
+<div align="center">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSql">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"  alt="MySql">
+<img src="https://img.shields.io/badge/Amazon_AWS-BC6FF1?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AmazonAWS">
 </div><br>
 
 <div>
