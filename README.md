@@ -37,7 +37,7 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Python-2A348E?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"> 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+<!--<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">-->
 <img src="https://img.shields.io/badge/Java-957bdd?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
 <img src="https://img.shields.io/badge/Node.js-0d0437?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.Js">
