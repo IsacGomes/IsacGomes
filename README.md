@@ -32,20 +32,21 @@
 [//]: <> ( Technologies/Tecnologias )
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-4d3688?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/JavaScript-0d0437?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+<img src="https://img.shields.io/badge/JavaScript-0d0437?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+<img src="https://img.shields.io/badge/Node.js-0d0437?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.Js">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"> 
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/Python-2A348E?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"> 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/Laravel-6DA8C1?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
 <img src="https://img.shields.io/badge/Java-957bdd?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-<img src="https://img.shields.io/badge/Node.js-0d0437?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.Js">
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/GIT-7F00B2?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSql">
-<img src="https://img.shields.io/badge/Laravel-6DA8C1?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"  alt="MySql">
 <img src="https://img.shields.io/badge/Amazon_AWS-BC6FF1?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AmazonAWS">
 </div><br>
