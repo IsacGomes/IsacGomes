@@ -49,7 +49,14 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSql">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"  alt="MySql">
 <img src="https://img.shields.io/badge/Amazon_AWS-BC6FF1?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AmazonAWS">
-</div><br>
+</div>
+<div align="center">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Swift-19BDFF?style=for-the-badge&logo=swift&logoColor=white">
+</div>
+<br>
 
 <div>
         
