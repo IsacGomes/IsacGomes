@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4d3688&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
 
 [//]: <> ( Saudação principal/Main greeting )
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Haro!,+My+name+is+Isac+Gomes+💜;I'm+20+years+old;I'm+from+Brazil;I+Graduated+Software+Engeneer+👨‍💻;Be+Welcome!+💜;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Haro!,+My+name+is+Isac+Gomes+💜;I'm+20+years+old;I'm+from+Brazil;I+Graduated+Software+Engeneer+👨‍💻;Be+Welcome!+🤍;)](https://git.io/typing-svg)
 
 [//]: <> ( Mais sobre mim/More about me )
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=500&color=FFFFFF&repeat=false&width=435&lines=More+about+me%3A)](https://git.io/typing-svg) <img align="right" src="https://s2.gifyu.com/images/Tomato-girl-Purple.gif" width="80em" height="80em">
@@ -76,4 +76,4 @@
 <div style:" display center: inline_block" align="center">
     <img src="https://raw.githubusercontent.com/Dumont19/Dumont19/c1b0a7666058a792d8c23aeb7e31abf69fbe7ea1/github-contribution-grid-snake.svg">
 </div>    
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4d3688&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
