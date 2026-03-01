@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Haro!,+My+name+is+Isac+Gomes+🤍;I'm+21+years+old;I'm+from+Brazil;I+Graduated+Software+Engeneer+👨‍💻;Be+Welcome!+🤍;)](https://git.io/typing-svg)
 
 [//]: <> ( Mais sobre mim/More about me )
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=500&color=FFFFFF&repeat=false&width=435&lines=More+about+me%3A)](https://git.io/typing-svg) <img align="right" src="https://s2.gifyu.com/images/Tomato-girl-Purple.gif" width="80em" height="80em">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=500&color=FFFFFF&repeat=false&width=435&lines=More+about+me%3A)](https://git.io/typing-svg)
 <div>
 
 [//]: <> ( Eu gosto de/I like to )
